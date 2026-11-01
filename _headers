@@ -1,0 +1,7 @@
+/*
+  Cache-Control: no-cache, must-revalidate
+/sw.js
+  Cache-Control: no-store
+/assetlinks.json
+  Content-Type: application/json
+  Access-Control-Allow-Origin: *

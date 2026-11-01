@@ -1,0 +1,15 @@
+[
+ {
+  "relation": [
+   "delegate_permission/common.handle_all_urls"
+  ],
+  "target": {
+   "namespace": "android_app",
+   "package_name": "app.netlify.ubiquitous_babka_1831f8.twa",
+   "sha256_cert_fingerprints": [
+    "D0:33:33:49:3A:8E:FE:40:D5:16:71:F4:67:B1:83:B3:A3:99:64:60:34:31:CD:BE:A5:39:01:67:D3:14:19:FA",
+    "56:F2:3C:70:5C:26:4E:8F:E0:A8:94:3F:0B:D9:43:13:38:1E:07:50:FC:1A:26:D6:DE:73:2F:6C:A8:1C:8B:22"
+   ]
+  }
+ }
+]
